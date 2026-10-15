@@ -1,6 +1,6 @@
 # La idea principal
 
-Esta página explica el proyecto completo de forma sencilla: qué es **HoneyNet**, qué servicio ofrece y cómo lo simulamos en un laboratorio. Si solo vas a leer una página de este repositorio, que sea esta.
+Esta página explica el proyecto completo de forma sencilla: qué es **HoneyNet**, qué servicio ofrece y cómo lo simulamos en un laboratorio.
 
 ## 1. El proyecto en una frase
 
