@@ -40,7 +40,7 @@ Sobre esa red, HoneyNet implanta su solución:
 4. **Crea una zona de gestión**, invisible desde fuera, con las herramientas de vigilancia y análisis (Wazuh y Grafana).
 5. **Monta su propia base de datos** (donde guarda los datos de los ataques) y sus **copias de seguridad**.
 6. **Automatiza** la recogida de logs, las alertas, los paneles y la respuesta.
-7. **Se conecta a distancia** de forma segura para administrarlo todo, sin abrir puertos de administración a Internet (con NetBird).
+7. **Adminsitra los honeypot.**
 8. **Mantiene** el entorno y **reporta** al cliente.
 
 > El nombre de la empresa cliente aún no está definido. En la documentación se la llama simplemente "la empresa cliente".
