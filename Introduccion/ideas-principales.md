@@ -43,8 +43,6 @@ Sobre esa red, HoneyNet implanta su solución:
 7. **Adminsitra los honeypot.**
 8. **Mantiene** el entorno y **reporta** al cliente.
 
-> El nombre de la empresa cliente aún no está definido. En la documentación se la llama simplemente "la empresa cliente".
-
 ## 4. Cómo funciona: la historia de un ataque
 
 Para entenderlo, sigamos a un atacante desde que llega hasta que el cliente ve su rastro:
