@@ -1,0 +1,67 @@
+Copyright (c) 2026 Álex Naranjo Blázquez and David Álvarez Fernández.
+All rights reserved.
+
+This repository contains the documentation, diagrams, design and written
+content of HoneyNet, our final-year project for the CFGS in Network
+Systems Administration (ASIR) – Cybersecurity. It is published so that it
+can be viewed and evaluated, not so that it can be used or reused.
+
+1. OWNERSHIP
+
+   The authors, Álex Naranjo Blázquez and David Álvarez Fernández, jointly
+   own this work. No license or right is granted to you except those
+   listed in section 2. Everything not expressly allowed is reserved.
+
+2. WHAT YOU MAY DO
+
+   - View this repository.
+   - Evaluate the work for educational or hiring purposes (for example,
+     teachers, evaluation boards and prospective employers).
+   - Do whatever GitHub's Terms of Service allow for public repositories,
+     such as viewing and forking on the GitHub platform.
+
+3. WHAT YOU MAY NOT DO
+
+   Without the prior written permission of both authors, you may not:
+
+   - Copy, reproduce or reuse any part of this work, including its text,
+     diagrams, configurations and scripts, in your own project, report or
+     website.
+   - Modify it or create derivative works based on it.
+   - Redistribute, publish, sell or sublicense it.
+   - Use it for commercial purposes, or deploy it for clients or
+     organizations.
+   - Submit it, in whole or in part, as your own academic or professional
+     work.
+   - Present it as your own work in any other way.
+
+4. THIRD-PARTY MATERIAL
+
+   Any software, tools, images or other material that was not created by
+   the authors (for example Proxmox, pfSense, Suricata, Wazuh, Grafana or
+   Docker) remains under its own license. This license does not change
+   their terms.
+
+5. SECURITY NOTICE
+
+   HoneyNet is a fictional company, and this project documents security
+   tooling for educational purposes only. Nothing in this repository
+   authorizes you to access, scan or attack any system that you do not own
+   or do not have explicit permission to test.
+
+6. ASKING FOR PERMISSION
+
+   If you would like to use any part of this work, please contact the
+   authors first. Permission is only valid if it is given in writing by
+   both authors.
+
+   GitHub: https://github.com/misteralva
+
+7. NO WARRANTY
+
+   The work is provided "as is", without warranty of any kind. The authors
+   are not liable for any damage or loss arising from its use.
+
+8. GOVERNING LAW
+
+   This license is governed by the laws of Spain.
